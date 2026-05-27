@@ -9,9 +9,9 @@ use Illuminate\Http\Request;
 class StudentController extends Controller
 {
     public function index()
-    {
-        return Student::with('course')->get();
-    }
+{
+    return Student::with('course')->get();
+}
 
     public function store(Request $request)
     {
