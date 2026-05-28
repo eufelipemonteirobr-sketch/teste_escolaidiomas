@@ -37,6 +37,15 @@ frontend/
 ```
 
 ---
+## 🖼 Screenshots do Projeto
+
+### Dashboard
+
+[Ver imagem](./Screnshots/Dashboard.PNG)
+[Ver imagem](./Screnshots/Cursos.PNG)
+[Ver imagem](./Screnshots/Alunos.PNG)
+---
+
 
 ## ▶ Como executar o projeto
 
