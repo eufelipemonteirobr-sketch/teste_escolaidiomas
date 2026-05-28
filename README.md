@@ -40,10 +40,12 @@ frontend/
 ## 🖼 Screenshots do Projeto
 
 ### Dashboard
-
 [Ver imagem](./Screnshots/Dashboard.PNG)
+### Cursos
 [Ver imagem](./Screnshots/Cursos.PNG)
+### Alunos
 [Ver imagem](./Screnshots/Alunos.PNG)
+
 ---
 
 
